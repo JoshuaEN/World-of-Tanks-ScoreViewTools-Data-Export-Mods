@@ -10,3 +10,5 @@ This code is the very definition of prototype turned production, was originally 
 
 ## Building
 I used PjOrion v1.3.5.501. Other tools/versions would probably also work.
+
+Compile the three files to `.pyc`, then pack the folder structure (`./res/...`) into a ZIP file with no compression (compression: Store) and name it `SVT.wotmod`. The mod can then be installed in `<game root>\mods\<current version>`.
